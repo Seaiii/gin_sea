@@ -1,7 +1,0 @@
-
-2021-06-23 17:36:07
-"Error 1146: Table 'caa_demo.caa_' doesn't exist"
-2021-06-23 17:36:38
-{"token":"acd3427a5a9c7c01933b26aa5b72b15f55190a0f","jwt_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRCI6NiwiVXNlcm5hbWUiOiJkZW1vMyIsIkF1dGhvcml0eUlkIjoiIiwiQnVmZmVyVGltZSI6ODY0MDAsImV4cCI6MTYyNTA0NTY1NCwiaXNzIjoic2VhIiwibmJmIjoxNjI0NDM5ODU0fQ.BztEQ0C3bspTpqjJE9wC_p958PsbXBo0rO5kboXGJRQ","create_time":1624440854,"user_id":6}
-2021-06-23 17:36:38
-"Error 1146: Table 'caa_demo.caa_' doesn't exist"
