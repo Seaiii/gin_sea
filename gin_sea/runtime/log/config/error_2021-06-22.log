@@ -1,0 +1,31 @@
+
+2021-06-22 17:18:16
+""
+2021-06-22 17:18:16
+null
+2021-06-22 17:19:07
+{}
+2021-06-22 17:19:18
+124
+2021-06-22 17:20:00
+"key is of invalid type"
+2021-06-22 17:21:38
+"key is of invalid type"
+2021-06-22 17:22:33
+"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRCI6MTIsIlVzZXJuYW1lIjoibmFtZSIsIkF1dGhvcml0eUlkIjoiIiwiQnVmZmVyVGltZSI6ODY0MDAsImV4cCI6MTYyNDk1ODU1MywiaXNzIjoic2VhIiwibmJmIjoxNjI0MzUyNzUzfQ.KV2lm_b8AVbeLVHvV7Nn_3s96iJ2xKmXWM1Ec6Klw_w"
+2021-06-22 17:22:33
+null
+2021-06-22 17:23:32
+"无法处理此token"
+2021-06-22 17:24:43
+"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRCI6MTIsIlVzZXJuYW1lIjoibmFtZSIsIkF1dGhvcml0eUlkIjoiIiwiQnVmZmVyVGltZSI6ODY0MDAsImV4cCI6MTYyNDk1ODY4MywiaXNzIjoic2VhIiwibmJmIjoxNjI0MzUyODgzfQ.XKihfaV2TKMkQ-kBM0d39UHnYS9zFIcp4nMH4WfeJMk"
+2021-06-22 17:24:43
+{"ID":12,"Username":"name","AuthorityId":"","BufferTime":86400,"exp":1624958683,"iss":"sea","nbf":1624352883}
+2021-06-22 17:26:39
+"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRCI6MTIsIlVzZXJuYW1lIjoibmFtZSIsIkF1dGhvcml0eUlkIjoiIiwiQnVmZmVyVGltZSI6ODY0MDAsImV4cCI6MTYyNDk1ODc5OSwiaXNzIjoic2VhIiwibmJmIjoxNjI0MzUyOTk5fQ.SwoW1XmIJZ70IGAQZOesNE7PvLaBB6aK4nqHhNZnvqk"
+2021-06-22 17:26:39
+{"ID":12,"Username":"name","AuthorityId":"","BufferTime":86400,"exp":1624958799,"iss":"sea","nbf":1624352999}
+2021-06-22 17:26:44
+"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJRCI6MTIsIlVzZXJuYW1lIjoibmFtZSIsIkF1dGhvcml0eUlkIjoiIiwiQnVmZmVyVGltZSI6ODY0MDAsImV4cCI6MTYyNDk1ODgwNCwiaXNzIjoic2VhIiwibmJmIjoxNjI0MzUzMDA0fQ.j0u7o5lFAiXKm_5jEyNxfoZ2_KvEP3GbysP0QXay0J0"
+2021-06-22 17:26:44
+{"ID":12,"Username":"name","AuthorityId":"","BufferTime":86400,"exp":1624958804,"iss":"sea","nbf":1624353004}
